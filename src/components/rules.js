@@ -9,7 +9,7 @@ function Help() {
                 <li>Once you have generated a word start guessing letters!</li>
                 <li>If you make a correct guess the letter(s) will reveal themselves.</li>
                 <li>However each time you make an incorrect guess the hangman drawing will be added to!</li>
-                <li>Try to finishes off the word before the image is complete to win!!!</li>
+                <li>Try to finish off the word before the image is complete to win!!!</li>
             </ul>
         </div>
         

@@ -16,3 +16,8 @@ My final project during my Web Development Bootcamp was to create an App using R
 * Run the app $ npm run
 
 <a name="usage"></a>
+## Usage
+
+<a name="credits"></a>
+## Credits
+This was an individual project by Sam Baldwin
