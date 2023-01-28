@@ -17,6 +17,25 @@ My final project during my Web Development Bootcamp was to create an App using R
 
 <a name="usage"></a>
 ## Usage
+When the app loads you will be taken to the landing page.<br>
+<img src="./Screenshots/Screenshot1.png" width="50%"><br><br>
+
+Click on 'Click to Start Game' to be taken to the game page.<br>
+<img src="./Screenshots/Screenshot2.png" width="50%"><br><br>
+
+Now click 'Start' and 'Generate a New Word', this will create a new word for you to play the game.<br>
+<img src="./Screenshots/Screenshot3.png" width="50%"><br><br>
+
+Start the game! If you guess a correct letter the letter(s) will appear on the word, however if an incorrect guess is made the image will start updating.<br>
+<img src="./Screenshots/Screenshot4.png" width="50%"><br><br>
+
+Win or lose you will be alerted on the outcome<br>
+<img src="./Screenshots/Screenshot5.png" width="50%"><br><br>
+<img src="./Screenshots/Screenshot6.png" width="50%"><br><br>
+
+If you need help click the 'Help' link where you will find a list of the rules.<br>
+<img src="./Screenshots/Screenshot1.png" width="50%"><br><br>
+
 
 <a name="credits"></a>
 ## Credits
